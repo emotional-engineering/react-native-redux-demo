@@ -1,0 +1,28 @@
+{
+  "name": "fullstack-dev-assessment",
+  "version": "1.0.0",
+  "description": "In order to run the project locally using emulators, you need to install XCode and Android Studio. Then you need to create and run appropriate virtual devices.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emotional-engineering/fullstack-dev-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emotional-engineering/fullstack-dev-assessment/issues"
+  },
+  "homepage": "https://github.com/emotional-engineering/fullstack-dev-assessment#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "nconf": "^0.10.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  }
+}
